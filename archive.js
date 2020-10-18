@@ -14,8 +14,8 @@ module.exports = {
             message.channel.setParent(newHome);
             
             console.log(`New parent of ${message.channel.name}: ${newHome}`)
-            /*https://discordapp.com/api/webhooks/765543180178292786/GwWUIOuYGMm_dQlQ5Ex4IGFmoZODB0m5888RQ4XFmIKAGKWgzLYubjpqKEEXLI7GVPU2*/
-            const hook = new Discord.WebhookClient('765543180178292786','GwWUIOuYGMm_dQlQ5Ex4IGFmoZODB0m5888RQ4XFmIKAGKWgzLYubjpqKEEXLI7GVPU2');
+            
+            const hook = new Discord.WebhookClient('webhook id','webhook token');
             const embed = new Discord.MessageEmbed({
                 title: 'Successfully Archived!',
                 description: `New parent of #${message.channel.name}: <#${newHome}>`,
