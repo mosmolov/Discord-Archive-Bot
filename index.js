@@ -28,6 +28,9 @@ client.on('message',message=>{
     if(command==='categorychannels'){
         client.commands.get('categorychannels').execute(message, args);
     }
+    if(command==='help'){
+        client.commands.get('help').execute(message, args);
+    }
 });
 
-client.login('NzY1MDI4ODE2MTU3NTQwMzgy.X4O2mw.cQdm8R3jZgGIJc4JUSNMTFZAZTM')
+client.login('insert token here');
