@@ -1,7 +1,5 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const prompt = require('prompt-sync')();
-
 
 module.exports = {
     name: 'archive',
