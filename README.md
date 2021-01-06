@@ -18,7 +18,7 @@
 
 ### How to Use the Bot: 
 
-* Channel format must be MM-D-Etc. *ex: (9-4-nike-am97)*
+* Channel format must be M-D-Etc. *ex: (9-4-nike-am97)*
 * The prefix to use the commands in the bot is `*`
 * The full list of commands can be found using the command `*help`
 * To change the prefix, head over to `index.js` and find the line which looks like this:  
