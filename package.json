@@ -1,7 +1,7 @@
 {
   "name": "archivebot",
   "version": "1.0.0",
-  "description": "Archive channelsto a separate category",
+  "description": "Archive channels to a separate category",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
