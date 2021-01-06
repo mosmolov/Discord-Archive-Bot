@@ -13,7 +13,7 @@ client.login('insert token here');
 	* Click [here](https://www.youtube.com/watch?v=KSED38KqCeM) for a tutorial for how to obtain your Discord bot's token!
 ##### Installing Packages: 
 > **If you don't have node installed, click [here](https://nodejs.org/en/download/) to install.** 
-> cd to the folder in the terminal of your choice and type in:  `npm i discord.js --save`
+> cd to the folder in the terminal of your choice and type in:  `npm i discord.js`
 --- 
 
 ### How to Use the Bot: 
