@@ -12,7 +12,9 @@ client.login('insert token here');
 * Where it says `"insert token here"` please insert your Discord bot's secret token!
 	* Click [here](https://www.youtube.com/watch?v=KSED38KqCeM) for a tutorial for how to obtain your Discord bot's token!
 ##### Installing Packages: 
-> **If you don't have node installed, click [here](https://nodejs.org/en/download/) to install.** 
+> **If you don't have node installed, click [here](https://nodejs.org/en/download/) to install.**
+
+
 > Go to the folder with the code in the terminal of your choice and type in:  `npm i discord.js`
 --- 
 
