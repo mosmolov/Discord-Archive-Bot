@@ -3,7 +3,7 @@
 ###  How to Install the Bot: 
 
 * Download the code from this repository: 
-  * Method 1: Click the green `Code` button and click `Download Zip.`  
+  * Method 1: Click the green `Code` button and click `Download Zip`  
   * Method 2: Cloning the Github repository. 
  * Once you have the code open, make your way to the `index.js` file and make your way to the line which looks like this:
 ```javascript
@@ -11,6 +11,9 @@ client.login('insert token here');
 ```
 * Where it says `"insert token here"` please insert your Discord bot's secret token!
 	* Click [here](https://www.youtube.com/watch?v=KSED38KqCeM) for a tutorial for how to obtain your Discord bot's token!
+##### Installing Packages: 
+> **If you don't have node installed, click [here](https://nodejs.org/en/download/) to install.** 
+> cd to the folder in the terminal of your choice and type in:  `npm i discord.js --save`
 --- 
 
 ### How to Use the Bot: 
